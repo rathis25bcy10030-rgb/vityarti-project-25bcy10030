@@ -1,4 +1,4 @@
-📚 README: Student Budget Tracker
+📚 Student Budget Tracker
 
 This repository contains the code for a simple Student Budget Tracker, implemented in Python using tkinter for the Graphical User Interface (GUI) and sqlite3 for local data persistence.
 
@@ -37,7 +37,7 @@ Language: Python 3.x
 
 ⚙️ Installation and Setup
 
-1)Clone the Repository (or download the files):
+1)Clone the Repository (or download the files):https://github.com/rathis25bcy10030-rgb/vityarti-project-25bcy10030.git
 
 2)Prerequisites: The application only requires a standard Python 3 installation, as tkinter and sqlite3 are typically included in the standard library.
 
