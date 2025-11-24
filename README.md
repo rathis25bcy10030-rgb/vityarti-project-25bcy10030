@@ -36,16 +36,19 @@ Language: Python 3.x
 
 
 ⚙️ Installation and Setup
+
 1)Clone the Repository (or download the files):
 
 2)Prerequisites: The application only requires a standard Python 3 installation, as tkinter and sqlite3 are typically included in the standard library.
 
 3)Run the Application: Ensure both project.py (database logic) and project2.py (GUI/main application) are in the same directory. Run the main GUI file: 
+
 python project2.py
                                                                                                                                                           
 
 
 🏗️ Application Logic Highlights
+
 project.py (Database Manager)
 
 initialize(): Creates the expenses and budget tables if they do not exist. It also ensures a default budget row (id=1) is present with a limit of 0.0.
