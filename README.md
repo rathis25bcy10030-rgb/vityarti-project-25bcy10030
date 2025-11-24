@@ -49,7 +49,7 @@ python project2.py
 
 🏗️ Application Logic Highlights
 
-⚙️project.py (Database Manager)
+⚙️Backend.py (Database Manager)
 
 initialize(): Creates the expenses and budget tables if they do not exist. It also ensures a default budget row (id=1) is present with a limit of 0.0.
 
@@ -59,7 +59,7 @@ substitution to prevent SQL Injection.)
 update() & get_budget(): Functions to manage and retrieve the single monthly budget limit.
 
 
-⚙️project2.py (GUI & Controller)
+⚙️Frontend.py (GUI & Controller)
 
 BudgetApp.__init__: Sets up the main window, initializes the database (db.initialize()), and creates the three main frames for Budget Management, Input, and the Expense List.
 
